@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="first_project">Popular Movies</string>
+    <string name="second_project">Stock Hawk</string>
+    <string name="third_project">Build It Bigger</string>
+    <string name="fourth_project">Make Your App Material</string>
+    <string name="fifth_project">Go Ubiquitous</string>
+    <string name="sixth_project">Capstone</string>
+
+    <string name="project_one_tap">Tapping this button will launch my \'Popular Movies\' app!</string>
+    <string name="project_two_tap">Tapping this button will launch my \'Stock Hawk\' app!</string>
+    <string name="project_three_tap">Tapping this button will launch my \'Build It Bigger\' app!</string>
+    <string name="project_four_tap">Tapping this button will launch my \'Make Your App Material\' app!</string>
+    <string name="project_five_tap">Tapping this button will launch my \'Go Ubiquitous\' app!</string>
+    <string name="project_six_tap">Tapping this button will launch my \'Capstone\' app!</string>
+
+</resources>
